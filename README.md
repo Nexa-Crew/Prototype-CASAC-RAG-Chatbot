@@ -1,7 +1,7 @@
 # Prototype-CASAC-RAG-Chatbot
 
-//Lệnh thực thi chương trình:  python -m streamlit run app_v2.py
-
+//Lệnh thực thi chương trình:  python -m streamlit run (tên file (app_v2 hoặc app_v3) ).py
+//File .env được cấu hình cho app_v3
 Notes:
       - Tải đầy đủ các thư viện:
            streamlit
