@@ -4,19 +4,20 @@
 
 Notes:
       - Tải đầy đủ các thư viện:
-          +, streamlit
-          +, pypdf
-          +, python-docx
-          +, docling
-          +, scikit-learn
-          +, pydantic
-          +, numpy
-          +, qdrant-client
-          +, FlagEmbedding
-          +, sentence-transformers
-          +, openai
-          +, langchain-openai
-          +, langchain
-          +, python-dotenv
+           streamlit
+           pypdf
+           python-docx
+           docling
+           scikit-learn
+           pydantic
+           numpy
+           qdrant-client
+           FlagEmbedding
+           sentence-transformers
+           openai
+           langchain-openai
+           langchain
+           python-dotenv
+           
       - pip install streamlit pypdf python-docx scikit-learn pydantic numpy python-dotenv openai langchain langchain-openai docling qdrant-client FlagEmbedding sentence-transformers torch
       
